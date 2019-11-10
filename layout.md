@@ -9,7 +9,6 @@ figures/Aguilarii
 m5puhbsb06o.html
 lvdjeergk58.html
 d5jebhaerao.html
-fugbaqnc8u8.html
 aequdj0b7lo.html
 l144jnghhso.html
 arm38tfp088.html
