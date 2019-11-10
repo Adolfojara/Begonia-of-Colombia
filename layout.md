@@ -9,5 +9,4 @@ figures/Aguilarii
 m5puhbsb06o.html
 lvdjeergk58.html
 d5jebhaerao.html
-kmk4cegp89o.html
 n4ejipg9pvg.html
