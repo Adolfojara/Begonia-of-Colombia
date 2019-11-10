@@ -5,4 +5,6 @@ figures/elevarions
 figures/elevatioXrange
 kind93f4pj.html
 5u0v7kusdc.html
+figures/Aguilarii
+m5puhbsb06o.html
 n4ejipg9pvg.html
