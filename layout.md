@@ -14,6 +14,8 @@ c70s30t9sn8.html
 lvdjeergk58.html
 d5jebhaerao.html
 lsttnn1n8do.html
+figures/urticae
+rh1i5sl1l.html
 aequdj0b7lo.html
 l144jnghhso.html
 arm38tfp088.html
