@@ -1,6 +1,5 @@
 abstract.html
 g4v92k8mug.html
-figures/klotzsch_Casparya
 hgcenmat3b.html
 figures/elevarions
 9d1kgbqcsfg.html
