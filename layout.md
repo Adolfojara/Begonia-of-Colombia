@@ -14,7 +14,6 @@ kind93f4pj.html
 mkt2qvm5h18.html
 figures/Aguilarii
 m5puhbsb06o.html
-figures/cornuta
 56ootqb2s1g.html
 vg10eara1r.html
 c70s30t9sn8.html
