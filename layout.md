@@ -1,7 +1,5 @@
 abstract.html
 g4v92k8mug.html
-lcjtdph4qi8.html
-7bh9mf4a988.html
 32fjo2co3u.html
 figures/elevarions
 9d1kgbqcsfg.html
