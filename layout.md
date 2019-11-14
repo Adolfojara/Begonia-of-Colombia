@@ -19,7 +19,6 @@ figures/ferrigeaR
 gf33ucjt858.html
 lvdjeergk58.html
 d5jebhaerao.html
-suu8vpjaqq.html
 2o13k271kpg.html
 lsttnn1n8do.html
 rh1i5sl1l.html
