@@ -13,24 +13,3 @@
   \ifnumodd{\value{schlussel}}{\iitemnostar}{\iitemstar}%
 }
 
-\makeatletter
-
-\newcommand\iitemstar{%
-  \item[\@itemlabel\rlap{*}]}
-
-\newcommand\iitemnostar{\item}
-
-\makeatother  
-
-\begin{document}
-
-\begin{clave taxonómica}
-\iitem one  \label{hojas}
-\iitem one*
-\iitem Two  \label{flores}
-\iitem Two*
-\iitem Three.  See \ref{two}.
-\iitem Three*. See \ref{one}.
-\end{Bestimmungsschluessel}
-
-\end{document}
