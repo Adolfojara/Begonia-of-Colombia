@@ -15,7 +15,6 @@ mkt2qvm5h18.html
 figures/Aguilarii
 m5puhbsb06o.html
 bemogsk9okg.html
-vg10eara1r.html
 c70s30t9sn8.html
 lvdjeergk58.html
 d5jebhaerao.html
