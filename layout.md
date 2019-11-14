@@ -11,6 +11,8 @@ figures/elevarions
 figures/elevatioXrange
 kind93f4pj.html
 5u0v7kusdc.html
+7q9aq4dsitg.tex
+h9gfofddln8.html
 jb67r8is2d8.html
 mkt2qvm5h18.html
 figures/Aguilarii
