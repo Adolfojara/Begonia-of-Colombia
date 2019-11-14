@@ -1,0 +1,12 @@
+\usepackage{xparse}
+\NewDocumentCommand{\iitem}{omd()o}{%
+% usage: \iitem[<label>]{<mandatory text>}(<Latin name>)[<label>]
+  \refstepcounter{schlussel}%
+  \ifnumodd{\value{schlussel}}{\iitemnostar}{\iitemstar}%
+  \space
+  \IfValueT{#1}{\label{#1}}%
+  #2%
+  \dotfill
+  \IfValueTF{#3}{\textsc{#3}\space}{\relax}%
+  \IfValueT{#4}{\bsrefstring \space \ref{#4}}%
+}
