@@ -17,7 +17,6 @@ figures/Aguilarii
 m5puhbsb06o.html
 figures/ferrigeaR
 gf33ucjt858.html
-ti7i3l98b1o.html
 fubscrrmqi.html
 figures/imscherii
 600le3hieoo.html
