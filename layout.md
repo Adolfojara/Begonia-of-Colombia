@@ -22,7 +22,6 @@ figures/imscherii
 600le3hieoo.html
 lvdjeergk58.html
 d5jebhaerao.html
-arl6mo9ejng.html
 figures/fig- 1
 ggnctqkela.html
 rh1i5sl1l.html
