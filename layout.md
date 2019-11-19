@@ -20,7 +20,6 @@ gf33ucjt858.html
 fubscrrmqi.html
 figures/imscherii
 600le3hieoo.html
-lvdjeergk58.html
 d5jebhaerao.html
 figures/fig- 1
 ggnctqkela.html
