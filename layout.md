@@ -12,7 +12,6 @@ figures/elevatioXrange
 kind93f4pj.html
 5u0v7kusdc.html
 jb67r8is2d8.html
-mkt2qvm5h18.html
 figures/Aguilarii
 m5puhbsb06o.html
 figures/ferrigeaR
