@@ -16,7 +16,6 @@ m5puhbsb06o.html
 c7kpp4s1n3.html
 gf33ucjt858.html
 kugr5e1nmb.html
-figures/imscherii
 600le3hieoo.html
 s2jip8dmtm8.html
 figures/fig- 1
